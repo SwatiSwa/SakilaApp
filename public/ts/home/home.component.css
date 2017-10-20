@@ -1,0 +1,7 @@
+.actor-wrapper{
+    border: 3px solid goldenrod;
+}
+
+.actor-wrapper span{
+    width: 20%;
+}
